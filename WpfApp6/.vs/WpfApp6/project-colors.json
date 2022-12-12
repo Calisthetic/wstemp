@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "331970a1-02b2-4712-a88e-8ec6fea39fdd": {
+      "ProjectGuid": "331970a1-02b2-4712-a88e-8ec6fea39fdd",
+      "DisplayName": "WpfApp6",
+      "ColorIndex": 0
+    },
+    "cf9fb60a-4b5a-4c1b-b278-1dbdaf01f52e": {
+      "ProjectGuid": "cf9fb60a-4b5a-4c1b-b278-1dbdaf01f52e",
+      "DisplayName": "WpfApp6Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
