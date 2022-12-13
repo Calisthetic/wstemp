@@ -82,5 +82,10 @@ namespace WpfApp6
                 BtnBack.Visibility = Visibility.Hidden;
             }
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new Page1());
+        }
     }
 }

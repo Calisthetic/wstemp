@@ -52,3 +52,5 @@ C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\WpfApp6.Properties.Resources
 C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
 C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\Page1.g.cs
+C:\Users\User\source\repos\wstemp\WpfApp6\obj\Debug\Page1.baml
